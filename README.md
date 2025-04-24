@@ -30,7 +30,6 @@ Pandas:  A Python library used for data manipulation and analysis, including loa
 Matplotlib: A Python library used for data visualization.
 
 
-
 **🔍 Key EDA Tasks Performed**
 
 Here are some of the steps and questions explored in the notebook:
@@ -82,10 +81,15 @@ This notebook was created as a personal learning project. Suggestions or collabo
 **🧾 Conclusion**
 
 This EDA project offered a solid overview of the global population landscape. By diving into indicators like total population, growth rate, density, and urbanization, it uncovered important demographic trends shaping the world today and in the future.
+
 The analysis showed:
-•	Where the population is concentrated,
-•	How fast it's growing or shrinking,
+
+•	Where the population is concentrated.
+
+•	How fast it's growing or shrinking.
+
 •	And what geographic and socio-economic factors might be influencing these changes.
+
 This foundation is a great launch point for deeper analysis — such as forecasting population shifts, evaluating sustainability pressures, or mapping population vs. GDP for economic modeling.
 
 
